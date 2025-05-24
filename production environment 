@@ -1,0 +1,7 @@
+const firebaseConfig = {
+  apiKey: "AlzaSyA85eIS2_2j0_Cy9k65H7A2gq49VNhhMfo",
+  authDomain: "fortressapp.firebaseapp.com",
+  projectId: "fortressapp",
+  storageBucket: "fortressapp.appspot.com",
+  messagingSenderId: "347115542133",
+  appId: "347115542133};
