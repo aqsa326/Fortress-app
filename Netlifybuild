@@ -1,0 +1,85 @@
+May 31, 07:23:12 PM: build-image version: 0e04ecb664f5f97dc8ac7f3de278d0e6f81cd9c2 (focal)
+May 31, 07:23:12 PM: devbot version: 3c5f949e0dcbf58582a5d92b4de0b5ccd3f54dec
+May 31, 07:23:12 PM: Fetching cached dependencies
+May 31, 07:23:12 PM: Starting to download cache of 66.0MB
+May 31, 07:23:13 PM: Finished downloading cache in 743ms
+May 31, 07:23:13 PM: Starting to extract cache
+May 31, 07:23:13 PM: Finished extracting cache in 689ms
+May 31, 07:23:13 PM: Finished fetching cache in 1.516s
+May 31, 07:23:13 PM: Starting to prepare your repo
+May 31, 07:23:13 PM: Preparing Git Reference main
+May 31, 07:23:15 PM: Starting to install dependencies
+May 31, 07:23:15 PM: [2mmise[0m [34mpython[0m@3.8.20   install
+May 31, 07:23:15 PM: [2mmise[0m [34mpython[0m@3.8.20   download cpython-3.8.20+20241002-x86_64-unknown-linux-gnu-install_only_stripped.tar.gz
+May 31, 07:23:16 PM: [2mmise[0m [34mpython[0m@3.8.20   extract cpython-3.8.20+20241002-x86_64-unknown-linux-gnu-install_only_stripped.tar.gz
+May 31, 07:23:16 PM: [2mmise[0m [34mpython[0m@3.8.20   python --version
+May 31, 07:23:16 PM: [2mmise[0m [34mpython[0m@3.8.20   Python 3.8.20
+May 31, 07:23:16 PM: [2mmise[0m [34mpython[0m@3.8.20 [38;5;10m✓[0m installed
+May 31, 07:23:16 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:16 PM: Python version set to 3.8
+May 31, 07:23:16 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:16 PM: Attempting Ruby version 2.7.2, read from environment
+May 31, 07:23:17 PM: Using Ruby version 2.7.2
+May 31, 07:23:17 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:17 PM: Started restoring cached go cache
+May 31, 07:23:17 PM: Finished restoring cached go cache
+May 31, 07:23:17 PM: Installing Go version 1.19.5 (requested 1.19.5)
+May 31, 07:23:22 PM: go version go1.19.5 linux/amd64
+May 31, 07:23:22 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:22 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:22 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:22 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:22 PM: Using PHP version 8.0
+May 31, 07:23:23 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:23 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:23 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:23 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:23 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:23 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:24 PM: Started restoring cached Node.js version
+May 31, 07:23:24 PM: Finished restoring cached Node.js version
+May 31, 07:23:24 PM: v22.16.0 is already installed.
+May 31, 07:23:25 PM: Now using node v22.16.0 (npm v10.9.2)
+May 31, 07:23:25 PM: Enabling Node.js Corepack
+May 31, 07:23:25 PM: Started restoring cached build plugins
+May 31, 07:23:25 PM: Finished restoring cached build plugins
+May 31, 07:23:25 PM: Successfully installed dependencies
+May 31, 07:23:25 PM: Starting dev server
+May 31, 07:23:25 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:26 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:26 PM: mise [36m/opt/build/repo/mise.toml[0m tools: [34mpython[0m@3.8.20
+May 31, 07:23:29 PM: Uploading Cache of size 66.0MB
+May 31, 07:23:31 PM: ⬥ No app server detected. Using simple static server
+May 31, 07:23:31 PM: ⬥ Unable to determine public folder to serve files from. Using current working directory
+May 31, 07:23:31 PM: ⬥ Setup a netlify.toml file with a [dev] section to specify your dev server settings.
+May 31, 07:23:31 PM: ⬥ See docs at: https://docs.netlify.com/cli/local-development/#project-detection
+May 31, 07:23:31 PM: ⬥ Running static server from "repo"
+May 31, 07:23:31 PM: ⬥ Setting up local dev server
+May 31, 07:23:31 PM: ​
+May 31, 07:23:31 PM: ❯ Installing plugins
+May 31, 07:23:31 PM:    - @netlify/plugin-lighthouse@6.0.1
+May 31, 07:23:31 PM:    - netlify-plugin-formspree@1.0.1
+May 31, 07:23:31 PM:    - netlify-plugin-cypress@2.2.0
+May 31, 07:23:31 PM:    - @netlify/plugin-nextjs@5.11.2
+May 31, 07:24:01 PM: ​
+May 31, 07:24:01 PM: ❯ Installing extensions
+May 31, 07:24:01 PM:    - user-agent-blocker
+May 31, 07:24:01 PM:    - async-workloads
+May 31, 07:24:01 PM:    - content-security-policy
+May 31, 07:24:01 PM:    - baseline
+May 31, 07:24:01 PM:    - fireproof
+May 31, 07:25:05 PM: origin
+May 31, 07:25:05 PM: [dev-server-plugin] listening on port 8288
+May 31, 07:25:06 PM: ⬥ Failed running command: http://thefortressapp.com. Please verify 'http://thefortressapp.com' exists
+May 31, 07:25:06 PM: Error running command: exit status 1
+May 31, 07:25:06 PM: Finished processing dev server in 1m54.348s
+May 31, 07:25:06 PM: ==================================================================
+May 31, 07:25:06 PM:
+May 31, 07:25:20 PM: Fetching cached dependencies
+May 31, 07:25:20 PM: devbot version: 3c5f949e0dcbf58582a5d92b4de0b5ccd3f54dec
+May 31, 07:25:20 PM: build-image version: 0e04ecb664f5f97dc8ac7f3de278d0e6f81cd9c2 (focal)
+May 31, 07:25:20 PM: Starting to download cache of 66.0MB
+May 31, 07:25:20 PM: ==================================================================
+May 31, 07:25:20 PM:
+May 31, 07:25:20 PM: Finished processing dev server in 212ms
+May 31, 07:25:20 PM: Failed to fetch cache, continuing with dev run
