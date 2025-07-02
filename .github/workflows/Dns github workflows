@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-DOMAIN = "thefortressapp.com"
+DOMAIN = "thefortressapp.pro"
 ABUSE_API_KEY = os.getenv("ABUSEIPDB_API_KEY")
 CF_ZONE_ID = os.getenv("CLOUDFLARE_ZONE_ID")
 CF_API_TOKEN = os.getenv("CLOUDFLARE_API_TOKEN")
