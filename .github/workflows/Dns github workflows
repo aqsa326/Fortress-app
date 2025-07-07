@@ -9,7 +9,7 @@ jobs:
   dns-check:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: Checkout thefortressapp.pro
         uses: actions/checkout@v3
 
       - name: Set up Python
