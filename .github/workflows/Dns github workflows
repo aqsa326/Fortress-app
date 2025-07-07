@@ -8,7 +8,7 @@ on:
 jobs:
   dns-check:
     runs-on: ubuntu-latest
-    steps:
+    steps:thefortressapp.pro
       - name: Checkout thefortressapp.pro
         uses: actions/checkout@v3
 
